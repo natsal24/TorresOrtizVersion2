@@ -18,8 +18,11 @@ The Torres-Ortiz family was originally from San Juan, Puerto Rico. We have docum
 
 *Gerardo Torres-Diaz*
 
-Gerardo Antonio del Carmen Torres-Diaz was born in San Juan, Puerto Rico on November 30th, 1891. His father was Sandalio Torres Monge, an attorney. His mother was Dolores Diaz. It is believed that he was of upper-middle class due to his father's occupation during the time period. Another indication is Gerardo and his mother's literacy that is mentioned in the 1920 census.
+Gerardo Antonio del Carmen Torres-Diaz was born in San Juan, Puerto Rico on November 30th, 1891. His father was Sandalio Torres Monge, an attorney. His mother was Dolores Diaz. It is believed that he was of upper-middle class due to his father's occupation during the time period. Another indication is Gerardo and his mother's literacy that is mentioned in the 1920 census.Gerardo Antonio del Carmen Torres-Diaz was born in San Juan, Puerto Rico on November 30th, 1891. Another indication is Gerardo and his mother's literacy that is mentioned in the 1920 census.Gerardo Antonio del Carmen Torres-Diaz was born in San Juan, Puerto Rico on November 30th, 1891. His father was Sandalio Torres Monge, an attorney. 
+.ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-Torres-Sr-scaled.jpeg height=500px width=300px right 
 
-.ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-Torres-Sr-scaled.jpeg height=500px width=300px right
+His mother was Dolores Diaz. It is believed that he was of upper-middle class due to his father's occupation during the time period. Another indication is Gerardo and his mother's literacy that is mentioned in the 1920 census. Gerardo Antonio del Carmen Torres-Diaz was born in San Juan, Puerto Rico on November 30th, 1891. His father was Sandalio Torres Monge, an attorney. His mother was Dolores Diaz. It is believed that he was of upper-middle class due to his father's occupation during the time period. Another indication is Gerardo and his mother's literacy that is mentioned in the 1920 census.Gerardo Antonio del Carmen Torres-Diaz was born in San Juan, Puerto Rico on November 30th, 1891. His father was Sandalio Torres Monge, an attorney. His mother was Dolores Diaz. It is believed that he was of upper-middle class due to his father's occupation during the time period. Another indication is Gerardo and his mother's literacy that is mentioned in the 1920 census.
+
+
 
 
