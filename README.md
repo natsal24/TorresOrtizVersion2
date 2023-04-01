@@ -6,14 +6,13 @@ The Torres-Ortiz family was originally from San Juan, Puerto Rico. We have docum
 .ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/01/Torres-Ortiz-Family-1-scaled.jpeg left caption="Fabio, María Luisa, and Cookie"
 
  
-.ve-map 37.84,-108.92 6 basemaps=Esri_WorldPhysical width=80% right
+.ve-map 37.84,-108.92 2 basemaps=Esri_WorldPhysical width=85% right
     - Q41211
     - Q60
     - Q79580
     - Q62
-    
-   
   
+   
 
 
 # The Family Members
