@@ -36,4 +36,17 @@ María Luisa was born under a [US ruled Puerto Rico](https://en.wikipedia.org/wi
 
 .ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OmlGPD2TP9MhwKIUAauWYK172frO-_r-nPs0apRPbjs&font=Default&lang=en&initial_zoom=2&height=650 right
 
+# To the Mainland
+
+.ve-media default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardos-1939-arrival-scaled.jpg right  caption="S.S. Cosmo Passenger List"
+*1938-1941*
+
+
+Gerardo Sr. traveled to the U.S. on September 7th 1938 aboard the SS San Juan. The address he listed was 432 N. Oxford in Hollywood, California. The following year in 1939, Gerardo ==traveled to the U.S. again=={143,379,1201,1282} and stayed in New York with his relative Enrique Monge. In 1941, Gerardo permentanly relocated his family setting sail on the S.S. Jacinto arriving to New York on October 24th. Gerry and Victor were not present on that ship because they had begun their own journey in the mainland.
+
+
+
+
+
+
 
