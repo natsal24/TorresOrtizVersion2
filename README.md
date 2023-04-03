@@ -24,13 +24,16 @@ Gerardo Antonio del Carmen Torres-Diaz was born in San Juan, Puerto Rico on Nove
 His mother was Dolores Diaz. It is believed that he was of upper-middle class due to his father's occupation during the time period. Another indication is Gerardo and his mother's literacy that is mentioned in the 1920 census. Gerardo Antonio del Carmen Torres-Diaz was born in San Juan, Puerto Rico on November 30th, 1891. His father was Sandalio Torres Monge, an attorney. His mother was Dolores Diaz. It is believed that he was of upper-middle class due to his father's occupation during the time period. Another indication is Gerardo and his mother's literacy that is mentioned in the 1920 census.
 
 
-.ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/01/Maria-Luisa-Ortiz-Sedano-scaled.jpeg height=450px width=280px right caption="A young María Luisa"
 
 
 
 *María Luisa Ortiz-Sedano*
 
+
 María Luisa was born under a [US ruled Puerto Rico](https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War) on October 17th, 1894. She was born to Felipe Ortiz, originally from Castro-Urdiales a Spanish northern seaport town. Her mother was Dolores Sedano from Santo Domingo, Domican Republic. It is unclear when, but records show that María Luisa's father died when she was young. It also seems that María Luisa only had one surviving sibling, her older sister Milagro Otriz-Cedano.
 
+.ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/01/Maria-Luisa-Ortiz-Sedano-scaled.jpeg height=450px width=280px left caption="A young María Luisa" 
 
 .ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OmlGPD2TP9MhwKIUAauWYK172frO-_r-nPs0apRPbjs&font=Default&lang=en&initial_zoom=2&height=650 right
+
+
