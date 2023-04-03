@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Gerardo's name on the list of American citizens where he listed his cousin's address",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/5d7e35326818c77b76b7f846cbd7d527a01542d633e8c4c20e5135aba3f7e73b",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:280.1340637207031,699.6659545898438,1049.1571350097656,33.6331787109375"
+      },
+      "id": "5d7e3532"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "43d9a8f3"
+  }
+]
