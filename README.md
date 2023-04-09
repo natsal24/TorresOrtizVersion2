@@ -61,3 +61,8 @@ Gerardo Sr. traveled to the U.S. on September 7th 1938 aboard the SS San Juan. T
 
 
 
+.ve-media
+    - default:https://raicesculturalcenter.org/wp-content/uploads/2023/02/Maria-Luisa-Ortiz-2-scaled.jpeg 
+    - default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Mary-Louise-Martinez-scaled.jpeg
+    - default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-in-NY-scaled.jpeg
+
