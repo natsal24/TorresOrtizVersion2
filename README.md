@@ -33,7 +33,7 @@ His mother was Dolores Diaz. It is believed that he was of upper-middle class du
 
 .ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/01/Maria-Luisa-Ortiz-Sedano-scaled.jpeg height=450px width=280px left caption="A young María Luisa" 
 
-María Luisa was born under a [US ruled Puerto Rico](https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War) on October 17th, 1894. She was born to Felipe Ortiz, originally from Castro-Urdiales a Spanish northern seaport town. Her mother was Dolores Sedano from Santo Domingo, Domican Republic. It is unclear when, but records show that María Luisa's father died when she was young. It also seems that María Luisa only had one surviving sibling, her older sister Milagro Otriz-Cedano. She was born to Felipe Ortiz, originally from Castro-Urdiales a Spanish northern seaport town. Her mother was Dolores Sedano from Santo Domingo, Domican Republic. It is unclear when, but records show that María Luisa's father died when she was young. It also seems that María Luisa only had one surviving sibling, her older sister Milagro Otriz-Cedano.She was born to Felipe Ortiz, originally from Castro-Urdiales a Spanish northern seaport town. Her mother was Dolores Sedano from Santo Domingo, Domican Republic. It is unclear when, but records show that María Luisa's father died when she was young. It also seems that María Luisa only had one surviving sibling, her older sister Milagro Otriz-Cedano.
+María Luisa was born under a [US ruled Puerto Rico](https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War) on October 17th, 1894. She was born to Felipe Ortiz, originally from Castro-Urdiales a Spanish northern seaport town. Her mother was Dolores Sedano from Santo Domingo, Domican Republic. It is unclear when, but records show that ==María Luisa's=={description="the mother of the family”} father died when she was young. It also seems that María Luisa only had one surviving sibling, her older sister Milagro Otriz-Cedano. She was born to Felipe Ortiz, originally from Castro-Urdiales a Spanish northern seaport town. Her mother was Dolores Sedano from Santo Domingo, Domican Republic. It is unclear when, but records show that María Luisa's father died when she was young. It also seems that María Luisa only had one surviving sibling, her older sister Milagro Otriz-Cedano.She was born to Felipe Ortiz, originally from Castro-Urdiales a Spanish northern seaport town. Her mother was Dolores Sedano from Santo Domingo, Domican Republic. It is unclear when, but records show that María Luisa's father died when she was young. It also seems that María Luisa only had one surviving sibling, her older sister Milagro Otriz-Cedano.
 
 # The Timeline
 
@@ -59,6 +59,9 @@ Gerardo Sr. traveled to the U.S. on September 7th 1938 aboard the SS San Juan. T
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/02/Maria-Luisa-Ortiz-2-scaled.jpeg 
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Mary-Louise-Martinez-scaled.jpeg
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-in-NY-scaled.jpeg
+    
+   
+   
 
 
 
