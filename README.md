@@ -37,9 +37,9 @@ María Luisa was born under a [US ruled Puerto Rico](https://en.wikipedia.org/wi
 
 # The Timeline
 
-.ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OmlGPD2TP9MhwKIUAauWYK172frO-_r-nPs0apRPbjs&font=Default&lang=en&initial_zoom=2&height=650 right
+.ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OmlGPD2TP9MhwKIUAauWYK172frO-_r-nPs0apRPbjs&font=Default&lang=en&initial_zoom=2&height=500 width=60%
 
-What happens if I write text here. What happens if I write text here. What happens if I write text here. What happens if I write text here. What happens if I write text here. What happens if I write text here.What happens if I write text here. What happens if I write text here. What happens if I write text here.What happens if I write text here. What happens if I write text here. What happens if I write text here.What happens if I write text here. What happens if I write text here. What happens if I write text here. What happens if I write text here. What happens if I write text here. What happens if I write text here.What happens if I write text here. What happens if I write text here. What happens if I write text here.What happens if I write text here. What happens if I write text here. What happens if I write text here.What happens if I write text here. What happens if I write text here. What happens if I write text here.
+
 
 
 
@@ -65,4 +65,6 @@ Gerardo Sr. traveled to the U.S. on September 7th 1938 aboard the SS San Juan. T
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/02/Maria-Luisa-Ortiz-2-scaled.jpeg 
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Mary-Louise-Martinez-scaled.jpeg
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-in-NY-scaled.jpeg
+
+
 
