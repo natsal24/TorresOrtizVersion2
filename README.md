@@ -39,12 +39,6 @@ María Luisa was born under a [US ruled Puerto Rico](https://en.wikipedia.org/wi
 
 .ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OmlGPD2TP9MhwKIUAauWYK172frO-_r-nPs0apRPbjs&font=Default&lang=en&initial_zoom=2&height=500 
 
-
-
-
-
-
-
 # To the Mainland
 
 .ve-media default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardos-1939-arrival-scaled.jpg  right caption="S.S. Cosmo Passenger List"
@@ -59,7 +53,7 @@ Gerardo Sr. traveled to the U.S. on September 7th 1938 aboard the SS San Juan. T
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Victor-Manuel-Simplico-Torres-Ortiz-scaled.jpeg
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/02/Torres-Ortiz.jpeg
 
-
+---
 
 .ve-media
     - default:https://raicesculturalcenter.org/wp-content/uploads/2023/02/Maria-Luisa-Ortiz-2-scaled.jpeg 
