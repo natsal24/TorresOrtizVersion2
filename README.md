@@ -37,7 +37,7 @@ María Luisa was born under a [US ruled Puerto Rico](https://en.wikipedia.org/wi
 
 # The Timeline
 
-.ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OmlGPD2TP9MhwKIUAauWYK172frO-_r-nPs0apRPbjs&font=Default&lang=en&initial_zoom=2&height=500 width=60%
+.ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1OmlGPD2TP9MhwKIUAauWYK172frO-_r-nPs0apRPbjs&font=Default&lang=en&initial_zoom=2&height=500 
 
 
 
